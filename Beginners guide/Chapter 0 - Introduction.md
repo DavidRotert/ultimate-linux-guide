@@ -34,7 +34,19 @@ But what about the ones who just want to use Linux without learning how computer
 - It is more secure (controversial, but I will still keep this one as an argument)
 - It is used on servers (mostly important for you if you want to become a system administrator)
 
-## 3. Why should I **NOT**  learn Linux?
+## 3. What are the downsides of Linux?
 
+Linux does not only have shiny sides. Every operating system has it's advantages and disadvantages, and so has Linux. Linux offers a whole other user experience compared to Windows and even macOS (although macOS and Linux have some small things in common - but we maybe dive deeper into this later). Don't expect Linux systems to exactly run and behave like the other two! Yes, many things are similar, and there is even some sort of compatibility to run Windows apps. But not everything works in the same way. Some Software doesn't exist on Linux. Some hardware is not going to work because the drivers are only available on Windows. And the desktop has often other workflows and settings than on Windows. So keep that in mind if you want to use Linux as your daily driver, you have to adopt its workflows. It's a little bit like going from Windows to macOS or the other way around. It requires learning the orkflow of the new system. Even in the case of Linux, where many more things can be customized, you likely can't change something so that everything works like in Windows (if you do, congratulations! You did something no one has ever done before! Please contact me, I am very interrested in that!).
 
-Also, if you rely on some special software like the Microsoft Office suite, Photoshop or some special video editing software and games ... stick with Windows or macOS as your day to day computer and
+Also, if you rely on some special software like the Microsoft Office suite, Photoshop or some special video editing software and games - stick with Windows or macOS as your day to day computer and use Linux in parallel. Yes, there are ways to learn Linux without ditching the existing system you use! We are learning one sort of this in chapter 2 so you can get a first look at one sort of a Linux system without worrying too much about breaking something and not working as expected with your hardware.
+
+Here is a list of disadvantages:
+- It is normally not able to run Software made for Windows or macOS
+- Some systems require additional software and configuration to be usable and user friendly
+- There are so many options that choosing the right one for you can be hard sometimes
+- Some hardware works out of the box - but others doesn't
+- It's workflows are different from the ones you know from Windows or macOS
+
+## What comes next
+
+In the [next chapter](Chapter%201%20-%20The%20basics.md) I will explain some basic things you need to know befor diving deeper into Linux.
